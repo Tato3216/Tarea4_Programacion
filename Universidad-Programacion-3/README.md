@@ -1,18 +1,16 @@
-## Getting Started
+# Proyecto Aplicacion ArbolesAVL Y ArbolesABB
+### Para evitar conflictos se recomienda el uso de VSCODE. De lo contrario debe ser reestructurado dependiendo del gestor de programacion que utilice
+### **Es una app en la cual se pueden usar funciones de avl y abb como insertar,eliminar, busqueda y ver recorridos**
+### 1. Creada con Java
+## :space_invader: Set Up
+### Ir a la carpeta Main/Main.java y ejecutarlo
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## :hammer_and_wrench:	Construido con
+- Java 
+- Vs Code
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Integrantes
+### Kennet Joab Guzman Ramirez            7690-21-2903
+### Elmer Eduardo Istupe Ruiz             7690-21-10969
+### Santos Genaro Hernandez Gabriel       7690-21-21318
+### Jose Carlos Medina Urizar             7690-20-1729
